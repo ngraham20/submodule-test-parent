@@ -1,0 +1,3 @@
+[submodule "module01"]
+	path = module01
+	url = git@github.com:ngraham20/submodule-test-module.git
